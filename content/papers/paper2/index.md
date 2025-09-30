@@ -27,7 +27,7 @@ editPost:
 This paper studies Problem of Apollonius and presents a generalized framework for solving any problem of a given form.
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure 2: Circles, lines and points in moduli space
 
 ![](paper2.png)
 
@@ -35,19 +35,14 @@ This paper studies Problem of Apollonius and presents a generalized framework fo
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
+@unpublished{dAubigny2004,
+  author = {Professor Dr Quentin d'Aubigny},
+  title = {The Generalized Problem of Apollonius},
+  note = {Unpublished manuscript},
+  year = {2004},
+  month = {December 28},
+  url = {https://github.com}
+}
 
 ---
 
