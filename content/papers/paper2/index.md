@@ -1,17 +1,17 @@
 ---
 title: "The Finer Points of Sausage Dogs" 
 date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+tags: ["mathematics", "enumerative geometry"]
+author: ["Professor Dr Quentin d'Aubigny"]
+description: "This paper defines and presents a solution to solve the generalized Problem of Apollonius using virtual set theory." 
+summary: " Problem of Apollonius" 
 cover:
     image: "paper2.png"
     alt: "Dimensions of a sausage dog"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    Text: ""
 
 ---
 
@@ -27,8 +27,7 @@ editPost:
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+This paper studies Problem of Apollonius and presents a generalized framework for solving any problem of a given form.
 ---
 
 ##### Figure 2: Dimensions of a sausage dog
