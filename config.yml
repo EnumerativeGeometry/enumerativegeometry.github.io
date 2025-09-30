@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+title: Professor Dr Quentin d'Aubigny
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -25,11 +25,11 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://en.wikipedia.org/wiki/virtual_set_theory
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "Virtual set theory foundations and motivation."
     author: Moritz-Maria von Igelfeld
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -54,8 +54,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Professor Dr Quentin d'Aubigny
+          subtitle: "I am a Professor in the Department of Mathematics at the University of Paris, France and Adjunct Professor of Math History. My research focuses on the foundations of mathematics with a special emphasis on algebraic geometry, fractal moduli spaces, and enriched enumerative geometry."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -73,31 +73,19 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://en.wikipedia.org/wiki/Professor Dr Quentin d'Aubigny_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: Professor Dr Quentin d'Aubigny@uparis.edu
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=Quentin d'Aubigny
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/enumerativegeometry
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +93,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Professor Dr Quentin d'Aubigny"
       icon: favicon.ico
       iconHeight: 18
 
