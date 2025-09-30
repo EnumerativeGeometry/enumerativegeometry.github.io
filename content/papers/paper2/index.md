@@ -1,16 +1,16 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
+title: "The Generalized Problem of Apollonius" 
 date: 2004-12-28
 tags: ["mathematics", "enumerative geometry"]
 author: ["Professor Dr Quentin d'Aubigny"]
 description: "This paper defines and presents a solution to solve the generalized Problem of Apollonius using virtual set theory." 
-summary: " Problem of Apollonius" 
+summary: "Generalized Problem of Apollonius" 
 cover:
     image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: "Dimensions of enumerative geometry"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com"
     Text: ""
 
 ---
@@ -20,9 +20,6 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
-
 ---
 
 ##### Abstract
