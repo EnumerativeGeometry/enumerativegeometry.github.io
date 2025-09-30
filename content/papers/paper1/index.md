@@ -1,17 +1,17 @@
 ---
-title: "Unusual Uses For Olive Oil" 
+title: "Foundations of Virtual Set Theory" 
 date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+tags: ["philology","mathematics"]
+author: ["Professor Dr Quentin d'Aubigny"]
+description: "This paper reviews the mathematical foundations of virtual set theory and defines the concept of a fractal set which can be used to create sets that contain themselves without contradicting Russel's paradox." 
+summary: "This paper reviews the mathematical foundations of virtual sets." 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    alt: "fractal sets"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://github.com/enumerativegeometry/virtualsettheory"
+    Text: ""
 
 ---
 
@@ -27,11 +27,11 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This paper reviews the foundations of virtual set theory.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 1: A fractal set built from virtual set theory
 
 ![](paper1.png)
 
