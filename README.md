@@ -29,6 +29,18 @@ This provides a rigorous framework to solve and understand the generalized Apoll
 
 ---
 
+## Mathematical foundations of virtual sets (Unpublished paper #1)
+
+You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
+
+## Solution to the generalized Apollonius problem
+
+After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
+
+## Future research
+
+You can read about future research on virtual sets here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
+
 ## Why This Matters
 
 Virtual Set Theory equips mathematicians with tools to:
@@ -61,3 +73,6 @@ This project is made available under the MIT License.
 
 Feel free to reach out or contribute to advance this exciting extension of mathematical foundations.
 
+Best Regards,
+
+Quentin d'Aubigny
