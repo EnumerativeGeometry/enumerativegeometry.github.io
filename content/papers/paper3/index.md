@@ -30,19 +30,14 @@ Future work.
 ---
 
 ##### Citation
-
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
+@unpublished{dAubigny2021,
+  author = {Quentin d'Aubigny},
+  title = {Foundations of Virtual Sets: Research},
+  year = {2021},
+  month = {April 6},
+  note = {Unpublished manuscript},
+  url = {https://github.com/}
+}
 
 ---
 
