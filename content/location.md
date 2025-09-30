@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Professor Dr Quentin d'Aubigny mailing and office addresses at the Institute of Romance Philology."
 
 ---
 
@@ -10,18 +10,18 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Dr Quentin d'Aubigny 
+Department of Mathematics 
+University of Paris
+Paris, France
 
 ---
 
 #### Office address
 
 Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Department of Mathematics
+University of Paris
 
 ---
 
