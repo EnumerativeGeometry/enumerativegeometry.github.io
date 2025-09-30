@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr Quentin d'Aubigny mailing and office addresses at the Institute of Romance Philology."
+description: "Professor Dr Quentin d'Aubigny mailing and office addresses."
 
 ---
 
