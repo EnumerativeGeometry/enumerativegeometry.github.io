@@ -54,24 +54,14 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr Quentin d'Aubigny
-          subtitle: "I am a Professor in the Department of Mathematics at the University of Paris, France and Adjunct Professor of Math History. My research focuses on the foundations of mathematics with a special emphasis on algebraic geometry, fractal moduli spaces, and enriched enumerative geometry."
+          title: Quentin d'Aubigny
+          subtitle: "My research focuses on the foundations of mathematics with a special emphasis on algebraic geometry, fractal moduli spaces, and enriched enumerative geometry."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
             - name: Blog
               url: https://en.wikipedia.org/wiki/Professor Dr Quentin d'Aubigny_(character)
 
