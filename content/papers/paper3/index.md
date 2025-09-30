@@ -1,5 +1,5 @@
 ---
-title: "Your Inner Hedgehog" 
+title: "Research" 
 date: 2021-04-06
 tags: ["mathematics"]
 author: ["Problem of Apollonius"]
@@ -20,7 +20,6 @@ editPost:
 ##### Download
 
 + [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
 
 ---
 
