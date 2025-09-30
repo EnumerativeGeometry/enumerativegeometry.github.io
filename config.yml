@@ -1,5 +1,5 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Professor Dr Quentin d'Aubigny
+title: Quentin d'Aubigny
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -30,7 +30,7 @@ menu:
 
 params:
     description: "Virtual set theory foundations and motivation."
-    author: Moritz-Maria von Igelfeld
+    author: Quentin d'Aubigny
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -67,13 +67,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: Professor Dr Quentin d'Aubigny@uparis.edu
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=Quentin d'Aubigny
+          url: Quentin d'Aubigny@uparis.edu
         - name: GitHub
           url: https://github.com/enumerativegeometry
 
@@ -83,7 +77,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Professor Dr Quentin d'Aubigny"
+      text: "Quentin d'Aubigny"
       icon: favicon.ico
       iconHeight: 18
 
