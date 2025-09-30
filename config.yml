@@ -1,6 +1,6 @@
 baseURL: "https://pascalmichaillat.org/hugo-website/" 
 title: Quentin d'Aubigny
-theme: PaperMod
+#theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
