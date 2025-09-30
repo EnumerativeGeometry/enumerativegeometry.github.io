@@ -33,11 +33,11 @@ This provides a rigorous framework to solve and understand the generalized Apoll
 
 You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
 
-## Solution to the generalized Apollonius problem
+## Solution to the generalized Apollonius problem (Unpublished paper #2)
 
 After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
 
-## Future research
+## Future research (unpublished paper #3)
 
 You can read about future research on virtual sets here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
 
