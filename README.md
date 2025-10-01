@@ -41,6 +41,70 @@ After reading the foundations of virtual sets which define a continuous set memb
 
 "This section illustrates the applicability of virtual set theory to a problem of considerable historical significance, thereby providing evidence of its broader mathematical utility in contexts where its value might otherwise be questioned.
 
+# Enumerative Geometry: Counting Circles with Specified Constraints
+
+## 🚩 Problem Statement
+
+**Given:**
+
+- Three distinct circles \( C_1, C_2, C_3 \),
+- Two distinct points \( P_1, P_2 \),
+- Five distinct lines \( L_1, \ldots, L_5 \),
+
+all in general position in the plane.
+
+**Goal:**  
+Determine the number of distinct circles \( C \) such that:
+
+1. \( C \) is tangent to **exactly two** of the three given circles,
+2. \( C \) passes through **exactly one** of the two given points,
+3. \( C \) is tangent to **exactly three** of the five given lines.
+
+---
+
+## 🧮 Approach: Enumerative Geometry via Algebraic Intersection Theory
+
+We model this problem using ideas from **intersection theory** and **enumerative geometry**, specifically:
+
+- Representing each geometric constraint as a **formal divisor class** \( h \),
+- Encoding "exactly" constraints using **inclusion-exclusion**,
+- Reducing polynomial expressions using a Chow ring relation:  
+  \[
+  h^3 = 2h
+  \]
+  which reflects the intersection theory of the moduli space of circles (dimension 2).
+
+### Algebraic Encoding of Constraints
+
+#### 1. Tangency to Exactly 2 of 3 Circles
+Each tangency imposes 1 condition ⇒ class \( h \).  
+So:
+\[
+\text{expr\_circles} = \binom{3}{2} h^2 - \binom{3}{3} h^3 = 3h^2 - h^3
+\]
+
+#### 2. Passing Through Exactly 1 of 2 Points
+Each point imposes 1 condition ⇒ class \( h \).  
+So:
+\[
+\text{expr\_points} = 2h - 2h^2
+\]
+
+#### 3. Tangency to Exactly 3 of 5 Lines
+Each line tangency is 1 constraint ⇒ class \( h \). Use inclusion-exclusion:
+\[
+\text{expr\_lines} = \binom{5}{3} h^3 - \binom{5}{4} (2h^2) + \binom{5}{5} (2h^3)
+\]
+
+---
+
+## 🧠 Computation
+
+We compute the total number of solutions (circles) by multiplying the above constraints:
+```python
+expr_total = expr_circles * expr_points * expr_lines
+
+
 ## Future research (unpublished paper #3)
 
 You can read about future research on virtual sets here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
