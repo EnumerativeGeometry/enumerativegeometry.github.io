@@ -15,7 +15,10 @@ Virtual Set Theory is motivated by these phenomena and the solution of classical
 - Nested degenerations produce **infinite fractal-like strata**, which classical counting methods and topology cannot fully capture.
 - Virtual Set Theory captures these infinite recursive degenerations by encoding *membership* as inclusions within these strata, leading to a **topological self-membership** interpretation of sets.
 
-This provides a rigorous framework to solve and understand the generalized Apollonius problem with refined invariants arising from motivic and homotopical data associated to the strata.
+
+
+Why this problem? It is chosen to demonstrate intricate enumerative constraints and fractal degenerations in moduli space that simpler classical versions do not exhibit.
+It is not the absolute minimal generalization, but a carefully crafted example that balances complexity and tractability for the theory’s purposes that can be solved on a computer in finite time.
 
 ---
 
