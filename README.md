@@ -96,14 +96,13 @@ Each line tangency is 1 constraint ⇒ class \( h \). Use inclusion-exclusion:
 \text{expr\_lines} = \binom{5}{3} h^3 - \binom{5}{4} (2h^2) + \binom{5}{5} (2h^3)
 \]
 
----
-
 ## 🧠 Computation
 
 We compute the total number of solutions (circles) by multiplying the above constraints:
 ```python
 expr_total = expr_circles * expr_points * expr_lines
 
+The theory is developed in detail on Paper #2.
 
 ## Future research (unpublished paper #3)
 
