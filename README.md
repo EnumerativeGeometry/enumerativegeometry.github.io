@@ -142,11 +142,17 @@ Another misconception. Virtual Set Theory does not break the fundamental rules o
 
 ## What is Virtual Mathematics?
 
-“Virtual Mathematics” is all theorems we can deduce from ZF axioms where 'set' is replaced with 'virtual set'. In this framework, many classical mathematical structures can be analogously reconstructed within classical math but with controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of mathematical reality rather than artificially denying it.
+“Virtual Mathematics” is all theorems we can deduce from ZF axioms where 'set' is replaced with 'virtual set'. In this framework, many classical mathematical structures can be analogously reconstructed within classical math but with controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of ma
+thematical reality rather than artificially denying it.
 
 ## Will you publish your papers on Arxiv?
 
-No, I most certainly will NOT. All of my papers will be published on this Github only as I go through all of my favorite math papers and re-construct them using virtual mathematics.
+No, I most certainly will NOT. All of my papers will be published on this Github only as I go through all of my favorite math papers and re-construct them using virtual mathematics. Here are some theorems I'm exploring in VST with analogues in classical mathematics:
+
+![Theorem 1](static/theorem1.png)
+![Theorem 2](static/theorem2.png)
+![Theorem 3](static/theorem3.png)
+
 
 Best Regards,
 Quentin d'Aubigny
