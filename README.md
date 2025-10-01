@@ -104,8 +104,7 @@ This section demonstrtes that the theory of virtual sets is well-defined and non
 
 After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
 
-"This section illustrates the applicability of virtual set theory to a problem of considerable historical significance, thereby providing evidence of its broader mathematical utility in contexts where its value might otherwise be questioned.
-
+The Apollonius problem lies at the intersection of classical constructions, analytic geometry, and algebraic geometry, serving as a fundamental example that unifies these diverse mathematical theories, so is not an arbitrary or trivial choice for VST.
 
 ## Future research (unpublished paper #3)
 
