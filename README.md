@@ -1,8 +1,7 @@
----
+
 > "A circle in a straight line is the mathematical symbol of miracle."  
 >  
 > — Ludwig Feuerbach, *The Essence of Christianity*
----
 
 
 # Virtual Set Theory
