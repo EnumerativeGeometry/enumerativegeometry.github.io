@@ -1,3 +1,10 @@
+---
+> "A circle in a straight line is the mathematical symbol of miracle."  
+>  
+> — Ludwig Feuerbach, *The Essence of Christianity*
+---
+
+
 # Virtual Set Theory
 
 Virtual Set Theory is a novel mathematical framework that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
@@ -23,7 +30,7 @@ It is not the absolute minimal generalization, but a carefully crafted example t
 ---
 
 ## Core Ideas
-
+- **Lines, circles and points are the fundamental, intuitive building blocks of geometry and can be used to build virtual sets**
 - **Stratified Moduli Spaces:** Parameter spaces of geometric configurations are decomposed into locally closed strata reflecting different singularity and tangency types.
 - **Virtual Membership:** The classical binary membership relation is replaced by a continuous inclusion of points into fractal strata, allowing sets to *contain themselves* in a topological sense.
 - **Virtual Fractal Sets:** Infinite descending intersections of strata capture recursive geometric degenerations, generalizing classical sets.
