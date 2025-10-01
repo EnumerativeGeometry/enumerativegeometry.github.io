@@ -8,7 +8,7 @@
 
 # Virtual Set Theory
 
-Virtual Set Theory is a mathematical framework (not a mathematical foundation) that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
+Virtual Set Theory is a mathematical framework (not a mathematical foundation or altnerative model it sits entirely within classical mathematics) that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
 
 ---
 
@@ -36,7 +36,7 @@ It is not the absolute minimal generalization, but a carefully crafted example t
 - **Virtual Membership:** The classical binary membership relation is replaced by a continuous inclusion of points into fractal strata, allowing sets to *contain themselves* in a topological sense.
 - **Virtual Fractal Sets:** Infinite descending intersections of strata capture recursive geometric degenerations, generalizing classical sets.
 - **Resolution of Paradoxes:** Russell’s paradox is resolved as membership becomes topological and continuous, not discrete logical inclusion.
-- **Compatibility:** Virtual Set Theory extends classical set theory without contradiction, building atop classical algebraic geometry, motivic homotopy, and derived geometry.
+- **Compatibility:** Virtual Set Theory extends classical set theory without contradiction, building atop classical algebraic geometry, motivic homotopy, and derived geometry. Anywhere you see the term *set* in a proof you can almost always use *virtual set* and build the same objects but with more powerful properties.
 
 ---
 
