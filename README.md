@@ -3,6 +3,8 @@
 >  
 > — Ludwig Feuerbach, *The Essence of Christianity*
 
+![Fractal Circle](static/ludwig.png)
+
 
 # Virtual Set Theory
 
