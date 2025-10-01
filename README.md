@@ -5,6 +5,7 @@
 
 ![Fractal Circle](static/ludwig.png)
 
+Note: While readers may proceed directly to the three research articles and the statement and proof of the Generalized Problem of Apollonius in the section Enumerative Geometry: Counting Circles with Specified Constraints, I encourage a thorough reading of the entire manuscript. Metaphors employed throughout this text are intended primarily as notational conveniences to facilitate the expression of the core ideas underpinning Virtual Set Theory (VST) and the associated proofs presented in the referenced papers. These metaphors serve a structural, rather than figurative, role and are introduced solely to aid formal exposition
 
 # Virtual Set Theory
 
