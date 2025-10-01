@@ -8,7 +8,7 @@
 
 # Virtual Set Theory
 
-Virtual Set Theory is a novel mathematical framework that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
+Virtual Set Theory is a mathematical framework (not a mathematical foundation) that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
 
 ---
 
@@ -31,7 +31,7 @@ It is not the absolute minimal generalization, but a carefully crafted example t
 ---
 
 ## Core Ideas
-- **Lines, circles, and points are the primal, intuitive building blocks of geometry**—just as points form the foundation of sets. They serve as the elemental constructs from which virtual sets are rigorously built, embodying the geometric essence underlying complex mathematical structures.
+- **Lines, circles, and points are the primal, intuitive building blocks of geometry**—just as points form the foundation of sets. In some sense, lines, circles and points are all the same gemetric objects (for example in inversive geometry) and they serve as the elemental constructs from which virtual sets are rigorously built, embodying the geometric essence underlying complex mathematical structures. The intuitive reason they are used instead of only "points" like in set theory is that they encode information (see paper2 on the formal encoding defined)
 - **Stratified Moduli Spaces:** Parameter spaces of geometric configurations are decomposed into locally closed strata reflecting different singularity and tangency types.
 - **Virtual Membership:** The classical binary membership relation is replaced by a continuous inclusion of points into fractal strata, allowing sets to *contain themselves* in a topological sense.
 - **Virtual Fractal Sets:** Infinite descending intersections of strata capture recursive geometric degenerations, generalizing classical sets.
@@ -131,7 +131,7 @@ Virtual Set Theory (VST) equips mathematicians with tools to:
 ---
 ## Isn't VST just reinventing the wheel since category theory and other frameworks already exist?
 
-VST is NOT a replacement for any foundations of math, instead, you can think of it as its own version of math built on top of classical mathematics, it is not a foundation.
+VST is NOT a replacement for any foundations of math, instead, you can think of it as its own version of math built on top of classical mathematics, it is not a foundation but it is very expressive (you can replace set with virtual set almost anywhere in a proof).
 
 While category theory and existing foundational systems provide elegant, abstract ways to relate mathematical objects, they fundamentally treat objects as black boxes and do not capture the internal, recursive, fractal nature of membership arising in modern geometric problems. Category theory excels by focusing on morphisms and universal properties, offering a "top-down" template that unifies structures across mathematics by how they relate externally, but it glosses over the stratified, infinite degenerations lurking inside sets themselves. Virtual Set Theory, in contrast, is a "bottom-up" theory emerging directly from geometric realities—stratified moduli spaces where classical set membership fails to describe infinite self-containing structures without paradox. Its novel continuous, homotopical notion of membership captures subtle recursive nuances invisible to category theory’s morphism-centric language, offering a rigorously consistent extension that models the true complexity of sets as they appear naturally within enumerative geometry. Moreover, unlike classical set theory which became more restrictive post-Russell paradox—limiting self-containing sets and fractal membership chains—Virtual Set Theory reopens this door in a controlled, geometrically motivated way, enriching foundational mathematics rather than repackaging existing abstractions.
 
