@@ -8,7 +8,7 @@
 
 # Virtual Set Theory
 
-Virtual Set Theory is a mathematical framework (not a mathematical foundation or altnerative model it sits entirely within classical mathematics) that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
+Virtual Set Theory is a mathematical framework (not a mathematical foundation or alternative logical model it sits entirely within classical mathematics) that extends classical set theory by introducing a refined topological and homotopical notion of membership. This extension allows for fractal, recursive, and self-containing sets—concepts traditionally forbidden in classical Zermelo-Fraenkel set theory by the Axiom of Foundation.
 
 ---
 
