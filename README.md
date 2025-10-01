@@ -106,21 +106,17 @@ The theory is developed in detail on Paper #2.
 
 ## Mathematical foundations of virtual sets (paper #1)
 
-You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
-
-This section demonstrtes that the theory of virtual sets is well-defined and non-contradictory it instead, extends classical mathematics.
+So how do you define a virtual set? How do you go from the previous problem to a definition of virtual set. The Apollonius problem lies at the intersection of classical constructions, analytic geometry, and algebraic geometry, serving as a fundamental example that unifies these diverse mathematical theories, so is not an arbitrary or trivial choice for VST. You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
 
 ## Solution to the generalized Apollonius problem (paper #2)
 
-After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
-
-The Apollonius problem lies at the intersection of classical constructions, analytic geometry, and algebraic geometry, serving as a fundamental example that unifies these diverse mathematical theories, so is not an arbitrary or trivial choice for VST.
+After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and the generalized solution here using the language of virtual set theory [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
 
 ## Future research (paper #3)
 
-You can read about future research on virtual sets here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
+You can read about future research on virtual sets here and the roadmap to redefine ZF with "virtual sets", anywhere set is used, replace set with virtual set [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
 
-This presents a roadmap for how virtual sets can not only extend but 'break the rules' by allowing singularities.
+This presents a roadmap for how virtual sets can not only extend but 'break the rules' by resoling several paradoxes and possibly open problem (although, *I do not claim to prove this at this point)*.
 
 ## Why This Matters
 
@@ -148,7 +144,7 @@ Another misconception. Virtual Set Theory does not break the fundamental rules o
 
 ## Will you publish your papers on Arxiv?
 
-No, I will not.
+No, I most certainly will NOT. All of my papers will be published on this Github only.
 
 Best Regards,
 Quentin d'Aubigny
