@@ -29,18 +29,6 @@ This provides a rigorous framework to solve and understand the generalized Apoll
 
 ---
 
-## Mathematical foundations of virtual sets (Unpublished paper #1)
-
-You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
-
-This section demonstrtes that the theory of virtual sets is well-defined and non-contradictory it instead, extends classical mathematics.
-
-## Solution to the generalized Apollonius problem (Unpublished paper #2)
-
-After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
-
-"This section illustrates the applicability of virtual set theory to a problem of considerable historical significance, thereby providing evidence of its broader mathematical utility in contexts where its value might otherwise be questioned.
-
 # Enumerative Geometry: Counting Circles with Specified Constraints
 
 ## 🚩 Problem Statement
@@ -104,6 +92,20 @@ expr_total = expr_circles * expr_points * expr_lines
 ```
 
 The theory is developed in detail on Paper #2.
+
+
+## Mathematical foundations of virtual sets (Unpublished paper #1)
+
+You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
+
+This section demonstrtes that the theory of virtual sets is well-defined and non-contradictory it instead, extends classical mathematics.
+
+## Solution to the generalized Apollonius problem (Unpublished paper #2)
+
+After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
+
+"This section illustrates the applicability of virtual set theory to a problem of considerable historical significance, thereby providing evidence of its broader mathematical utility in contexts where its value might otherwise be questioned.
+
 
 ## Future research (unpublished paper #3)
 
