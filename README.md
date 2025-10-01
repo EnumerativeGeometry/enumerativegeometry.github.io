@@ -104,20 +104,19 @@ expr_total = expr_circles * expr_points * expr_lines
 
 The theory is developed in detail on Paper #2.
 
-
-## Mathematical foundations of virtual sets (Unpublished paper #1)
+## Mathematical foundations of virtual sets (paper #1)
 
 You can start here and read about the foundations of virtual sets in my first paper [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paper1.pdf)
 
 This section demonstrtes that the theory of virtual sets is well-defined and non-contradictory it instead, extends classical mathematics.
 
-## Solution to the generalized Apollonius problem (Unpublished paper #2)
+## Solution to the generalized Apollonius problem (paper #2)
 
 After reading the foundations of virtual sets which define a continuous set membership using strata, you can read about the problem of Apollonius and my generalized solution here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paper2.pdf)
 
 The Apollonius problem lies at the intersection of classical constructions, analytic geometry, and algebraic geometry, serving as a fundamental example that unifies these diverse mathematical theories, so is not an arbitrary or trivial choice for VST.
 
-## Future research (unpublished paper #3)
+## Future research (paper #3)
 
 You can read about future research on virtual sets here [here](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paper3.pdf)
 
@@ -135,37 +134,21 @@ Virtual Set Theory (VST) equips mathematicians with tools to:
 ---
 ## Isn't VST just reinventing the wheel since category theory and other frameworks already exist?
 
+VST is NOT a replacement for any foundations of math, instead, you can think of it as its own version of math built on top of classical mathematics.
+
 While category theory and existing foundational systems provide elegant, abstract ways to relate mathematical objects, they fundamentally treat objects as black boxes and do not capture the internal, recursive, fractal nature of membership arising in modern geometric problems. Category theory excels by focusing on morphisms and universal properties, offering a "top-down" template that unifies structures across mathematics by how they relate externally, but it glosses over the stratified, infinite degenerations lurking inside sets themselves. Virtual Set Theory, in contrast, is a "bottom-up" theory emerging directly from geometric realities—stratified moduli spaces where classical set membership fails to describe infinite self-containing structures without paradox. Its novel continuous, homotopical notion of membership captures subtle recursive nuances invisible to category theory’s morphism-centric language, offering a rigorously consistent extension that models the true complexity of sets as they appear naturally within enumerative geometry. Moreover, unlike classical set theory which became more restrictive post-Russell paradox—limiting self-containing sets and fractal membership chains—Virtual Set Theory reopens this door in a controlled, geometrically motivated way, enriching foundational mathematics rather than repackaging existing abstractions.
 
 ## This is not possible as it breaks the rules of math
 
-Virtual Set Theory does not break the fundamental rules of mathematics but extends classical set theory by redefining membership as a continuous, topological notion that naturally accommodates fractal, recursive, and self-containing sets without leading to logical contradictions. This approach is deeply inspired by enumerative geometry, where moduli spaces often exhibit intricate stratifications reflecting degenerations and recursive tangency conditions that form fractal-like patterns. Unlike classical set membership, which is a rigid, binary relation, the continuous inclusion in Virtual Set Theory can model infinite descending chains and self-membership analogously to fractals’ recursive self-similarity and non-integer dimensions. This connection to fractal geometry is not metaphorical but structural: just as fractals capture geometric complexity arising from iterative constructions and self-similarity, Virtual Set Theory captures the infinite recursion and intricate stratifications present in geometric enumerative problems, thus rigorously expanding the mathematical language to reflect these deeper geometric realities, consistent with modern frameworks like derived geometry and homotopy theory.
+Another misconception. Virtual Set Theory does not break the fundamental rules of mathematics but extends classical set theory by redefining membership as a continuous, topological notion that naturally accommodates fractal, recursive, and self-containing sets without leading to logical contradictions. This approach is deeply inspired by enumerative geometry, where moduli spaces often exhibit intricate stratifications reflecting degenerations and recursive tangency conditions that form fractal-like patterns. Unlike classical set membership, which is a rigid, binary relation, the continuous inclusion in Virtual Set Theory can model infinite descending chains and self-membership analogously to fractals’ recursive self-similarity and non-integer dimensions. This connection to fractal geometry is not metaphorical but structural: just as fractals capture geometric complexity arising from iterative constructions and self-similarity, Virtual Set Theory captures the infinite recursion and intricate stratifications present in geometric enumerative problems, thus rigorously expanding the mathematical language to reflect these deeper geometric realities, consistent with modern frameworks like derived geometry and homotopy theory.
 
 ## What is Virtual Mathematics?
 
-Virtual Set Theory opens the door to a “Virtual Mathematics” where many classical mathematical structures can be analogously reconstructed but with the crucial advantage of allowing controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of mathematical reality rather than artificially denying it.
+“Virtual Mathematics” is all theorems we can deduce from ZF axioms where 'set' is replaced with 'virtaul set'. In this framework, many classical mathematical structures can be analogously reconstructed but with the crucial advantage of allowing controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of mathematical reality rather than artificially denying it.
 
-## Getting Started
+## Will you publish your papers on Arxiv?
 
-Included in this project are:
-
-- Formal definitions of Virtual Set Theory concepts.
-- Theorems on the well-definedness and properties of virtual strata.
-- Examples illustrating the resolution of the generalized Apollonius problem using virtual strata.
-- Sketches of applications to enumerative geometry and singularity theory.
-
-For detailed technical development and proofs, please refer to the accompanying documentation and publications.
-
----
-
-## License
-
-This project is made available under the MIT License.
-
----
-
-Feel free to reach out or contribute to advance this exciting extension of mathematical foundations.
+No, I will not.
 
 Best Regards,
-
 Quentin d'Aubigny
