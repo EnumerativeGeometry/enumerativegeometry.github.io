@@ -102,7 +102,8 @@ We compute the total number of solutions (circles) by multiplying the above cons
 expr_total = expr_circles * expr_points * expr_lines
 ```
 
-The theory is developed in detail on Paper #2.
+The theory is developed in detail on Paper #2 but this example  provides a way to understand the "size" of virtual sets, linking it to numbers and providing the basis for combinatorics. Sound familiar?
+
 
 ## Mathematical foundations of virtual sets (paper #1)
 
@@ -130,7 +131,7 @@ Virtual Set Theory (VST) equips mathematicians with tools to:
 ---
 ## Isn't VST just reinventing the wheel since category theory and other frameworks already exist?
 
-VST is NOT a replacement for any foundations of math, instead, you can think of it as its own version of math built on top of classical mathematics.
+VST is NOT a replacement for any foundations of math, instead, you can think of it as its own version of math built on top of classical mathematics, it is not a foundation.
 
 While category theory and existing foundational systems provide elegant, abstract ways to relate mathematical objects, they fundamentally treat objects as black boxes and do not capture the internal, recursive, fractal nature of membership arising in modern geometric problems. Category theory excels by focusing on morphisms and universal properties, offering a "top-down" template that unifies structures across mathematics by how they relate externally, but it glosses over the stratified, infinite degenerations lurking inside sets themselves. Virtual Set Theory, in contrast, is a "bottom-up" theory emerging directly from geometric realities—stratified moduli spaces where classical set membership fails to describe infinite self-containing structures without paradox. Its novel continuous, homotopical notion of membership captures subtle recursive nuances invisible to category theory’s morphism-centric language, offering a rigorously consistent extension that models the true complexity of sets as they appear naturally within enumerative geometry. Moreover, unlike classical set theory which became more restrictive post-Russell paradox—limiting self-containing sets and fractal membership chains—Virtual Set Theory reopens this door in a controlled, geometrically motivated way, enriching foundational mathematics rather than repackaging existing abstractions.
 
@@ -140,11 +141,11 @@ Another misconception. Virtual Set Theory does not break the fundamental rules o
 
 ## What is Virtual Mathematics?
 
-“Virtual Mathematics” is all theorems we can deduce from ZF axioms where 'set' is replaced with 'virtaul set'. In this framework, many classical mathematical structures can be analogously reconstructed but with the crucial advantage of allowing controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of mathematical reality rather than artificially denying it.
+“Virtual Mathematics” is all theorems we can deduce from ZF axioms where 'set' is replaced with 'virtual set'. In this framework, many classical mathematical structures can be analogously reconstructed but with controlled singularities and fractal-like membership behaviors that classical foundations exclude. Unlike traditional axiomatic set theories that impose overly rigid restrictions—effectively ruling out objects exhibiting infinite recursive self-containment or complex degenerations—Virtual Set Theory imposes exactly the right balance of constraints to permit such phenomena consistently. This flexibility enables the formal existence of mathematical objects that classical theory deems impossible or paradoxical, akin to longstanding “impossible” problems like squaring the circle through equidecomposition but in a rigorously defined and geometrically meaningful context. By doing so, Virtual Mathematics promises a richer universe of structures capturing subtle recursive and singular behavior essential for modern geometry and topology, offering a foundational framework that truly reflects the complexity of mathematical reality rather than artificially denying it.
 
 ## Will you publish your papers on Arxiv?
 
-No, I most certainly will NOT. All of my papers will be published on this Github only.
+No, I most certainly will NOT. All of my papers will be published on this Github only as I go through all of my favorite math papers and re-construct them using virtual mathematics.
 
 Best Regards,
 Quentin d'Aubigny
