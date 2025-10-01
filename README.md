@@ -29,7 +29,7 @@ It is not the absolute minimal generalization, but a carefully crafted example t
 ---
 
 ## Core Ideas
-- **Lines, circles, and points are the primal, intuitive building blocks of geometry—just as points form the foundation of sets. They serve as the elemental constructs from which virtual sets are rigorously built, embodying the geometric essence underlying complex mathematical structures.**
+- **Lines, circles, and points are the primal, intuitive building blocks of geometry**—just as points form the foundation of sets. They serve as the elemental constructs from which virtual sets are rigorously built, embodying the geometric essence underlying complex mathematical structures.
 - **Stratified Moduli Spaces:** Parameter spaces of geometric configurations are decomposed into locally closed strata reflecting different singularity and tangency types.
 - **Virtual Membership:** The classical binary membership relation is replaced by a continuous inclusion of points into fractal strata, allowing sets to *contain themselves* in a topological sense.
 - **Virtual Fractal Sets:** Infinite descending intersections of strata capture recursive geometric degenerations, generalizing classical sets.
