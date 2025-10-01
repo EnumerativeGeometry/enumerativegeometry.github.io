@@ -99,8 +99,9 @@ Each line tangency is 1 constraint ⇒ class \( h \). Use inclusion-exclusion:
 ## 🧠 Computation
 
 We compute the total number of solutions (circles) by multiplying the above constraints:
-```python
+```
 expr_total = expr_circles * expr_points * expr_lines
+```
 
 The theory is developed in detail on Paper #2.
 
