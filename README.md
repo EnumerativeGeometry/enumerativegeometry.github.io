@@ -1,6 +1,6 @@
 # Virtual Set Theory and Enumerative Geometry: The Generalized Apollonius Problem
 
-![Ludwig Feuerbach](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/static/ludwig.png)
+![Ludwig Feuerbach](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/ludwig.png)
 
 "A circle in a straight line is the mathematical symbol of miracle."  
 — Ludwig Feuerbach, *The Essence of Christianity*
