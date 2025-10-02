@@ -221,7 +221,19 @@ The Ship of Theseus analogy encapsulates the notion of progressive and recursive
 
 Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
----
+## Current Research and Publicaitons
+
+The framework of Virtual Set Theory (VST) and its application to the generalized Apollonius problem, while promising, faces several important open questions and criticisms that we aim to address systematically in forthcoming papers to be published on arXiv starting Christmas Day 2025:
+
+    Formal Foundations of VST and Membership Definition
+    Current presentations of VST introduce a recursive, fractal notion of membership that enriches classical set theory but lack a fully formal axiomatic system. In a forthcoming foundational paper, Foundations of Virtual Sets (expected December 25, 2025), we will provide rigorous axioms for this parameterized membership relation, carefully proving consistency and compatibility with classical set theories such as ZF and NBG. This work will aim to show how classical paradoxes like Russell’s paradox are resolved in this setting without violating foundational axioms.
+
+    Justification of Enumerative Formulas and Intersection Relations
+    The central intersection-theoretic relation h3=2hh3=2h in the Chow ring MM, which encodes enumerative multiplicities in the moduli space of points, lines, and circles, is currently presented heuristically. Our second paper, Apollonius Problem Resolution in VST (scheduled for early 2026), will provide a detailed derivation of this relation using tools from algebraic geometry, intersection theory, and moduli stacks. We will formalize the intersection computations linking the Chow ring relations to classical enumerative results.
+
+    Comparison and Integration with Existing Theories
+    While VST offers a novel perspective focusing on parameterized virtual membership, it naturally intersects with category theory, homotopy type theory, and other modern frameworks handling recursive and fractal structures. Our third paper, Extending ZF with Virtual Sets: Connections and Extensions (planned for mid-2026), will rigorously explore correspondences, embeddings, and distinctions between VST and these classical frameworks. This will clarify the precise scope and potential advantages of VST as a complementary meta-framework for enumerative geometry challenges.
+
 
 Best regards,  
 Quentin d'Aubigny
