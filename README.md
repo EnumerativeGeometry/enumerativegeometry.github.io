@@ -184,16 +184,15 @@ Just as the Ship of Theseus remains "the same ship" despite all of its parts eve
 
 VST analogues of these classical theorems are currently being proved, with papers to come.
 
-- ![Virtual Fixed Point Theorem](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/static/theorem1.png)  
+![Virtual Fixed Point Theorem](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem1.png)
   Description: Virtual fixed point theorem extending classical results.  
 
-- ![Virtual Combinatorial Identities](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/static/theorem2.png)  
+![Virtual Combinatorial Identities](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem2.png)
   Description: Virtual generalization of classical combinatorial identities.  
 
-- ![Recursive Structure Theorem](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/static/theorem3.png)  
-  Description: Recursive structure theorem analogous to classical set theory results.  
+![Recursive Structure Theorem](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem3.png)
+  Description: Recursive structure theorem analogous to classical set theory results but with virtual sets
 
----
 
 ## Disclaimer on Publications
 
@@ -217,13 +216,10 @@ VST complements rather than replaces foundational frameworks such as Zermelo-Fra
 Philosophical and Practical Considerations
 
 The Ship of Theseus analogy encapsulates the notion of progressive and recursive replacement inherent in Virtual Set Theory’s parameterized membership. In the upcoming formal publication, this metaphor will be rigorously instantiated as structured morphisms within the associated moduli space and categorical frameworks, replacing informal intuition with precise algebraic and topological definitions
-## Contact and Contributions
-
-Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 ## Current Research and Publicaitons
 
-The framework of Virtual Set Theory (VST) and its application to the generalized Apollonius problem, while promising, faces several important open questions and criticisms that we aim to address systematically in forthcoming papers to be published on arXiv starting Christmas Day 2025:
+The framework of Virtual Set Theory (VST) and its application to the generalized Apollonius problem, while promising, faces several important open questions and criticisms that we aim to address systematically in forthcoming papers to be published on arXiv planned for Christmas Day 2025:
 
     Formal Foundations of VST and Membership Definition
     Current presentations of VST introduce a recursive, fractal notion of membership that enriches classical set theory but lack a fully formal axiomatic system. In a forthcoming foundational paper, Foundations of Virtual Sets (expected December 25, 2025), we will provide rigorous axioms for this parameterized membership relation, carefully proving consistency and compatibility with classical set theories such as ZF and NBG. This work will aim to show how classical paradoxes like Russell’s paradox are resolved in this setting without violating foundational axioms.
@@ -233,6 +229,10 @@ The framework of Virtual Set Theory (VST) and its application to the generalized
 
     Comparison and Integration with Existing Theories
     While VST offers a novel perspective focusing on parameterized virtual membership, it naturally intersects with category theory, homotopy type theory, and other modern frameworks handling recursive and fractal structures. Our third paper, Extending ZF with Virtual Sets: Connections and Extensions (planned for mid-2026), will rigorously explore correspondences, embeddings, and distinctions between VST and these classical frameworks. This will clarify the precise scope and potential advantages of VST as a complementary meta-framework for enumerative geometry challenges.
+
+## Contact and Contributions
+
+Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
