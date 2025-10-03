@@ -222,6 +222,8 @@ This relation models the enumerative geometry multiplicities arising from triple
 
 ### Computing the Total Number of Circles
 
+First we will start with an upper bound of 40, since there are at most 40 incircles or excircles given the 3 tangency conditions. We can compute this upper bound in another way, using our Moduli space.
+
 The total enumerative count of circles satisfying all constraints is given by the intersection product:
 
 \[
@@ -247,6 +249,19 @@ Upon further expansion and simplification, this yields the exact count of circle
 3) We can choose 3 lines from 5 lines, but if a circle is tangent to 4 lines, that case apperas in multiple triples, so we can subtract the overcounts, then add back corrections for circles tangent to all 5 lines. This gives the final term 12h^3-20h^2.
 
 Finally, in the chow ring, since we impose 3 tangency conditions, the final intersection space degenerates, yielding solutions with multipicity 2. Thus, since each of the 3 cases is a tangency or incidence condition that is given by a factor of h, and exactly conditions require inclusion-exclusion, we can take our final intersection equation, with coefficients corresponding to the combinatorial choices in each of the cases and substitute in the core chow relation, to get the total number of circles as the coefficient of the final h term.
+
+Reducing via the hcow ring relation gives approximately 672h. However, this is too large, because not all intersection multiplicities correspond to real multiplicities in the Euclidean plane, therefore, we introducr variables alpha and beta, that represent the virtual local intersection multiplicities in our upper bound.
+
+This leads to a corrected count (3h^2-alphah^3) * (2h -betah^2) * (12h^3 -20h^2) , substituting the chow relation again we get,
+
+Count = -(2 * 20 * (12 + 4 alpha * beta) + 48 ( 6 * beta + 4 alpha). The minus sign is a convention coming from the intersection theory operation, reducing further we get:
+
+-Count = 480 + 160alpha*beta + 288beta + 192alpha (Equation 1) and - Count >= -40 (Equation 2) where alpha and beta are positive rational nunmbers corresponding to exact virtual multiplicities in our Moduli space (intuitively this is the cardinality of a virtual set corresponding to our solution).
+
+We can simulate this in Sage to solve for alpha, beta since both alpha and beta are completely determined by the 3 tangency conditiosn and our moduli space.
+
+
+
 
 ---
 
