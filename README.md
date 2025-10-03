@@ -1,6 +1,6 @@
 # Virtual Set Theory and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
 
-Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover and its kernel. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius alongside an NP-hard variant. The solution methodology involves constructing virtual sets within Lean 4, revealing profound interconnections spanning algebraic geometry, fractal geometry, and set theory—disciplines conventionally regarded as disjoint.
+Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius alongside an NP-hard variant. The solution methodology involves constructing virtual sets within Lean 4, revealing profound interconnections spanning algebraic geometry, fractal geometry, and set theory—disciplines conventionally regarded as disjoint.
 
 Notably, the enumerative structure of this approach renders it computationally feasible, thereby enabling the effective simulation of virtual sets on a computer.
 
@@ -23,11 +23,12 @@ The project uses **Lean 4** to formalize axioms, definitions, and theorems, enab
   Contains foundational axioms including classical membership and the new virtual membership relation parameterized over an indexing space.
 
 - **`definitions.lean`**  
-  Defines geometric objects in the moduli space \(\mathcal{M}\) that models points, lines, and circles uniformly required for the proof.
+  Defines geometric objects in the moduli space \(\mathcal{M}\) that models points, lines, and circles uniformly required for the proof and eventually virtual sets.
 
 - **`theorems.lean`**  
   Encodes key theorems such as the Chow ring intersection relation \(h^3 = 2h\), central to the enumerative solution of the Apollonius problem.
-
+- **`apollonius.lean`**
+  This is the main mathematical kernel, focused on a specific working example it will be extended to rebuild classical results.
 ---
 
 ## Getting Started
