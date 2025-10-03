@@ -238,7 +238,15 @@ Applying \(h^3=2h\), expand and reduce:
 \end{aligned}
 \]
 
-Upon further expansion and simplification, this yields the exact count of circles meeting all enumerative constraints.
+Upon further expansion and simplification, this yields the exact count of circles meeting all enumerative constraints. The above intersection product can be deduced using inclusion-exclusion for each of the 3 tangency conditions as follows:
+
+1) Tangent to 2 circles in the moduli space is modeled by h^2, since each tangency imposes on independent divisor condition. However, this overcounts cases where the circle is also tangent to the third circle at the same time, a condition that cannot happen, therefore since these cases satisfy 3 tangency conditions, we can subtract h^3 to remove the overcount. Hence, since there are 3 ways to choose 2 circles from 3 circles, the first tangency condition is 3h^2-h^3.
+
+2) The same logic applies to the other 2 conditions, the naive count (incidence with 2 other points) is 2h but if a circle passes through both points, it was double counted, so we need to subtract 2h^2.
+
+3) We can choose 3 lines from 5 lines, but if a circle is tangent to 4 lines, that case apperas in multiple triples, so we can subtract the overcounts, then add back corrections for circles tangent to all 5 lines. This gives the final term 12h^3-20h^2.
+
+Finally, in the chow ring, since we impose 3 tangency conditions, the final intersection space degenerates, yielding solutions with multipicity 2. Thus, since each of the 3 cases is a tangency or incidence condition that is given by a factor of h, and exactly conditions require inclusion-exclusion, we can take our final intersection equation, with coefficients corresponding to the combinatorial choices in each of the cases and substitute in the core chow relation, to get the total number of circles as the coefficient of the final h term.
 
 ---
 
