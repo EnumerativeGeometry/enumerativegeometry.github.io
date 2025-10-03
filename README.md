@@ -126,7 +126,8 @@ all in general position.
 - \(C\) passes through *exactly one* of the two points,
 - \(C\) is tangent to *exactly three* of the five lines.
 
----
+
+We use VST to reframe the problem and also prove the total count is 17 using virtual set membership.
 
 ## The Moduli Space Framework
 
