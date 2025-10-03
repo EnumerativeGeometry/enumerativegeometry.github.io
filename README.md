@@ -341,9 +341,9 @@ Prepared by Quentin d’Aubigny, 2025. For feedback or contributions, please con
 
 ---
 
-## Visuals: Theorems Derived from VST (Illustrative)
+## Visuals: Conjectural Theorems and Hypotheses in VST
 
-VST analogues of these classical theorems are currently being proved, with papers to come.
+VST analogues of these classical theorems are currently conjectured, with papers to come.
 
 ![Virtual Fixed Point Theorem](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem1.png)
   Description: Virtual fixed point theorem extending classical results.  
