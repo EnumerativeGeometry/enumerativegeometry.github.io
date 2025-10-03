@@ -1,5 +1,7 @@
 # Virtual Set Theory and Enumerative Geometry: The Generalized Apollonius Problem
 
+Our project aims to construct a virtual mathematical kernel build on VST that runs on Lean4, rigorously validated using Lean 4 theorem prover or Lean 4 kernel.
+
 ![Ludwig Feuerbach](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/ludwig.png)
 
 "A circle in a straight line is the mathematical symbol of miracle."  
