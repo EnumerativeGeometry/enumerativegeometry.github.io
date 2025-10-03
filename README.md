@@ -428,76 +428,7 @@ VST analogues of these classical theorems are currently conjectured, with papers
 
 ## Contact and Contributions
 
-Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. It provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
-
-
-Here is a draft of contributor guidelines tailored for your open-source foundational math project using Lean 4, explaining the language choice and a flexible but scalable folder structure approach for axioms, definitions, and theorems together:
-Contributor Guidelines for Virtual Set Theory Project
-
-Welcome to the Virtual Set Theory (VST) foundational math project! This repository aims to build a formal, collaborative environment for axioms, definitions, and theorems related to VST and enumerative geometry.
-Language Choice: Lean 4
-
-We use Lean 4 as our formal proof language for several reasons:
-
-    Modern and expressive for formalizing axioms, recursive definitions, and proofs.
-
-    Growing community and ecosystem around formalized mathematics with rich libraries (mathlib4).
-
-    Good tooling support with VS Code and other editors, enabling interactive proof development.
-
-    Enables computer verification of theorems, increasing rigor and reproducibility.
-
-You will find all statements formalized as .lean files following Lean 4 syntax.
-Repository Structure and Organization
-
-While large formal math projects often separate axioms, definitions, and theorems into distinct folders, this repository currently supports a flexible setup where these elements can coexist, provided they follow clear naming and documentation conventions.
-
-We encourage contributors to organize work as follows (adaptable as the project grows):
-
-    Files should be named to indicate their content, e.g.,
-
-        axiom_foundation.lean for axioms
-
-        def_moduli_space.lean for definitions
-
-        thm_apollonius.lean for theorems
-
-    Each file should contain a Markdown docstring at the top explaining its content in natural language for easier onboarding.
-
-    As the repository expands or number of contributors grows, we may adopt a more modular folder structure:
-
-    text
-    axioms/
-    definitions/
-    theorems/
-
-    This improves navigability, tooling integration, and encourages specialization.
-
-Contributions
-
-    All contributions must be submitted via pull requests.
-
-    Proofs must be fully verified by Lean 4 before merging.
-
-    Pull requests must include clear explanations in natural language (comments or accompanying docs) plus the formal Lean code.
-
-    We welcome everyone from beginners to experts. Tags such as good-first-issue or needs-proof will guide contributors.
-
-Getting Started
-
-    Install Lean 4 and mathlib4 following the official Lean documentation or your platform’s preferred instructions.
-
-    Use lake build tool included in Lean for compiling and checking proofs.
-
-    Use Visual Studio Code with Lean extension for an interactive development experience.
-
-Code Style and Best Practices
-
-    Follow Lean 4 style guides for readability and consistency.
-
-    Document all formal statements with comments explaining intuition and context.
-
-    Write modular proofs separating lemmas for reuse.
+Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Currently focused on a minimal working example in enumerative geometry, it provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
