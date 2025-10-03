@@ -7,7 +7,7 @@ We demonstrate that α and β can be explicitly computed via global topological 
 
 # What is a mathematical kernel?
 
-Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius.
+Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover built on a minimal working example, that can be used to solve problems in enumerative geometry using the same core machinery. 
 
 Notably, the enumerative structure of this approach renders it computationally feasible, thereby enabling the effective simulation of virtual sets on a computer.
 
@@ -571,18 +571,6 @@ This project develops **Virtual Set Theory (VST)**, a novel foundational framewo
 
 ---
 
-
-## Foundational Papers Forthcoming
-
-- [Foundations of Virtual Sets (Paper #1)]()  
-- [Apollonius Problem Resolution in VST (Paper #2)]()  
-- [Future Research and Extending ZF with Virtual Sets (Paper #3)]()  
-- [Enumerative Geometry Overview (Wikipedia)]()  
-- [Original Apollonius Problem (Wikipedia)](https://en.wikipedia.org/wiki/Problem_of_Apollonius)  
-- [Recent Algebraic Geometry Research (McKean 2022)]()  
-
----
-
 ## Visuals: Conjectural Theorems and Hypotheses in VST
 
 VST analogues of these classical theorems are currently conjectured, with papers to come.
@@ -599,7 +587,7 @@ VST analogues of these classical theorems are currently conjectured, with papers
 
 ## Contact and Contributions
 
-Virtual Set Theory is not a foundation like category theory or set theory, it is instead, a virtual mathematical kernel in Lean4. It aims to formally define a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Currently focused on a minimal working example in enumerative geometry, it provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
+Virtual Set Theory is not a foundation like category theory or set theory, it is instead, a virtual mathematical kernel in Lean4. It aims to formally define a structural re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics recursive enumeration phenomena into the structure of sets and membership that allows for solving fundamental enumerative geometry problems or rebuilding of classical results into a virtual mathematics by simply substituting set with virtual sets (the only difference being the definition of set membership). Currently focused on a minimal working example in enumerative geometry, it provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
