@@ -1,6 +1,13 @@
 # Virtual Sets and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
 
-Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius alongside an NP-hard variant. The solution methodology involves constructing virtual sets within Lean 4, revealing profound interconnections spanning algebraic geometry, fractal geometry, and set theory—disciplines conventionally regarded as disjoint.
+Abstract: We address the Problem of Apollonius and its generalizations by introducing a rigorous reformulation of set membership within an appropriate moduli space, thereby unifying points, lines, and circles under a common framework. By enumerating degenerate tangency conditions and recasting tangency constraints as intersection relations, we obtain a parametrized equation for the cardinality of solutions involving unknown coefficients α and β.
+
+We demonstrate that α and β can be explicitly computed via global topological invariants of the moduli space—specifically, geometric quantities analogous to counting topological features such as genus—thus linking local tangency conditions to global geometric data. This approach uncovers deep connections among algebraic geometry, fractal geometry, and set theory, which are traditionally considered distinct fields. The resulting system of independent equations admits a unique solution for αα and ββ, yielding the classical count of 17 solutions to the Problem of Apollonius. The rest of the project experiments with the idea of virtual set membership by creating a VST framework in Lean4 and substitutting classical sets with virtual sets in classic theorems.
+
+
+# What is a mathematical kernel?
+
+Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius.
 
 Notably, the enumerative structure of this approach renders it computationally feasible, thereby enabling the effective simulation of virtual sets on a computer.
 
