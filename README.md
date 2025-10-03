@@ -357,7 +357,7 @@ VST analogues of these classical theorems are currently conjectured, with papers
 
 ## Contact and Contributions
 
-Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
+Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. It provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
