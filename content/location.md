@@ -2,7 +2,7 @@
 title: "Location"
 date: 2024-05-08
 hidemeta: true
-description: "Professor Dr Quentin d'Aubigny mailing and office addresses."
+description: "Yesod Bourbansky mailing and office addresses."
 
 ---
 
@@ -10,7 +10,7 @@ description: "Professor Dr Quentin d'Aubigny mailing and office addresses."
 
 #### Mailing address
 
-Dr Quentin d'Aubigny 
+Yesod Bourbansky
 Department of Mathematics 
 University of Paris
 Paris, France
