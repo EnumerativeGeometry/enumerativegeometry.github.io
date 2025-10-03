@@ -256,13 +256,17 @@ This leads to a corrected count (3h^2-alphah^3) * (2h -betah^2) * (12h^3 -20h^2)
 
 Count = -(2 * 20 * (12 + 4 alpha * beta) + 48 ( 6 * beta + 4 alpha). The minus sign is a convention coming from the intersection theory operation, reducing further we get:
 
--Count = 480 + 160alpha*beta + 288beta + 192alpha (Equation 1) and - Count >= -40 (Equation 2) where alpha and beta are positive rational nunmbers corresponding to exact virtual multiplicities in our Moduli space (intuitively this is the cardinality of a virtual set corresponding to our solution).
+-Count = 480 + 160alpha*beta + 288beta + 192alpha (Equation 1) and - Count >= -40 (Inequality 1) where alpha and beta are positive rational nunmbers corresponding to exact virtual multiplicities in our Moduli space (intuitively this is the cardinality of a virtual set corresponding to our solution).
 
-We can simulate this in Sage to solve for alpha, beta since both alpha and beta are completely determined by the 3 tangency conditiosn and our moduli space.
+We can simulate this in Sage to solve for alpha, beta since both alpha and beta are completely determined by local degeneracy conditions, namely, degenerate solutions correspond to another subvariety or in VST a virtual set in the Moduli space that overcount, producing higher local intersetion multiplicities than in the Euclidean plane, therefore we can create a second equation that completely determines the system by counting local degenerate solutions.
 
+McKlean's work [2022, arXiv:2210.13288] rigorously relates these local intersection multplicities to Euler classes of vector bundles and oriented volumes of gradients of defining quadratics at intersection points. These local multiplicities contribute additively and lineraly to the corrected terms represented by alpha and beta.
 
+Therefore, by solving the total real count in terms of alpha and beta, we can write a second equation in terms of alpha and beta:
 
+Equation (2) C_0 + C1*alpha + C2*beta + C3*alpha*beta = 0 where C_i are constants computable from the geometry (euler characteristics and volumes of gradient cones found in McKay's paper]. These can be computed in Sage and made explicit.
 
+Now, Equations (1) and Equations (2) can be solved for alpha and beta in Sage and substituted back into Equation (1), if there are multiple solutons (negative and positive) Equality (1) can be used to determine the unique solution if it exists for the configuratio of circles, lines and points given to get the final corrected Count, corresponding to the total real number of tangent circles. 
 ---
 
 This comprehensive and rigorously justifies the enumerative solution for the generalized Apollonius problem using intersection theory on \(\mathcal{M}\), clearly linking classical enumerations with the Chow ring relations and virtual set theory's conceptual framework.
