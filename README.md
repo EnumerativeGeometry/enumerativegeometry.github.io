@@ -1,4 +1,4 @@
-# Virtual Set Theory and Enumerative Geometry: The Generalized Apollonius Problem
+# Virtual Set Theory and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
 
 Our project aims to construct a virtual mathematical kernel build on VST that runs on Lean4, rigorously validated using Lean 4 theorem prover or Lean 4 kernel.
 
@@ -13,9 +13,7 @@ Our project aims to construct a virtual mathematical kernel build on VST that ru
 ---
 ## Overview
 
-This repository hosts the first open-source collaborative formalization of Virtual Set Theory (VST) and its application to enumerative geometry, especially the generalized Apollonius problem. VST refines classical set theory by redefining membership as a continuous, recursive, fractal-like relation motivated by fractal degenerations in geometry.
-
-The project uses **Lean 4** to formalize axioms, definitions, and theorems, enabling rigorous computer-verified proofs connecting foundational mathematics with cutting-edge geometric enumeration. The main repo is [Visit the Virtual Set Theory GitHub Repository](https://github.com/YourUsername/YourVSTRepo)
+The project uses **Lean 4** to formalize axioms, definitions, and theorems, enabling rigorous computer-verified proofs connecting foundational mathematics with cutting-edge geometric enumeration. The main repo is [Visit the Virtual Set Theory GitHub Repository](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io)
 
 
 ## Repository Structure
