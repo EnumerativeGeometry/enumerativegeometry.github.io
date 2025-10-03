@@ -274,7 +274,6 @@ This means the solution space for degenerate intersection multiplicities is self
 
 The theoretical equvivalence and its fractal interpretation are fully formalized and verified inside the Lean4 theorem prover.
 
----
 
 This comprehensive and rigorously justifies the enumerative solution for the generalized Apollonius problem using intersection theory on \(\mathcal{M}\), clearly linking classical enumerations with the Chow ring relations and virtual set theory's conceptual framework.
 
