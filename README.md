@@ -210,7 +210,7 @@ In enumerative geometry, VST addresses counting problems involving fractal degen
 
 Regarding category theory, modern higher categories, homotopy type theory, and related frameworks already support hierarchical, recursive, and self-referential structures. VST does not claim to replace these but offers a meta-framework specifically tailored to fractal parameterized membership relations. Further publications will elaborate the precise scope, advantages, and distinctions of VST vis-à-vis these theories.
 
-VST can be understood in a Ship of Theseus type (see rigorous definition of this as a morphism) of fashion: it rebuilds mathematics by replacing the classical notion of a *set* with a *virtual set*, where almost all classical theorems remain true, but some have their truth values "flipped" to resolve foundational paradoxes. 
+Virtual Set Theory (VST) can be rigorously conceptualized via a Ship of Theseus–type morphism: it reconstructs the universe of classical mathematics by systematically replacing each classical set with a corresponding virtual set through a well-defined morphism that preserves nearly all classical theorems. However, this morphism allows controlled transformations where certain theorem truth values may be reversed to consistently resolve foundational paradoxes, such as those arising from classical membership and self-containment. This process thus realizes a structural recursive embedding of the classical universe into a fractally stratified virtual universe, embodying the philosophical essence of gradual object replacement and identity persistence formalized as morphisms in a categorical or type-theoretic framework.
 
 Just as the Ship of Theseus remains "the same ship" despite all of its parts eventually being replaced, VST preserves the essence of classical set theory while transforming the membership relation to avoid artificial limitations imposed by axioms like Foundation. This allows for a rigorous "virtual mathematics" that faithfully extends classical structures without contradiction, reinterpreting membership and truth in a fractal, recursive manner within classical mathematics itself.
 
@@ -357,7 +357,7 @@ VST analogues of these classical theorems are currently conjectured, with papers
 
 ## Contact and Contributions
 
-Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
+Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
