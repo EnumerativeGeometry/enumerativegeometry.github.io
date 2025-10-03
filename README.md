@@ -211,7 +211,7 @@ The intersection-theoretic computations rely on the key relation in the Chow rin
 h^3 = 2h.
 \]
 
-This relation models the enumerative geometry multiplicities arising from triple tangency or intersection conditions in \(\mathcal{M}\).
+This relation models the enumerative geometry multiplicities arising from triple tangency or intersection conditions in \(\mathcal{M}\). In the same way that set membership does not allow multiplicities (an element is either a member of a set or not a member of a set, it is only counted once in the cardinality of the set), the chow relation is fundamental to the virtaul set membership, providing a way to count the size of virtual sets and reduce multiplicities that arise in constructing virtual sets using ing intersection theory.
 
 ### Justification of the Relation \(h^3 = 2h\)
 
