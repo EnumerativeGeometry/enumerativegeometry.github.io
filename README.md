@@ -14,7 +14,7 @@ Notably, the enumerative structure of this approach renders it computationally f
 ---
 ## Overview
 
-The project uses **Lean 4** to formalize axioms, definitions, and theorems, enabling rigorous computer-verified proofs of Apollonius problems and variannts, connecting foundational mathematics with cutting-edge geometric enumeration. In the future, other theorems beyond this minimal working example can be developed (see project roadmap and conjectures). The main repo is [Visit the Virtual Set Theory GitHub Repository](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io)
+The project uses **Lean 4** to formalize axioms, definitions, and theorems, enabling rigorous computer-verified proofs of Apollonius problems and variants, connecting foundational mathematics with cutting-edge geometric enumeration. In the future, other theorems beyond this minimal working example can be developed (see project roadmap and conjectures). The main repo is [Visit the Virtual Set Theory GitHub Repository](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io)
 
 
 ## Repository Structure
