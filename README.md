@@ -1,6 +1,8 @@
 # Virtual Set Theory and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
 
-Our project aims to construct a virtual mathematical kernel build on VST that runs on Lean4, rigorously validated using Lean 4 theorem prover or Lean 4 kernel. It builds off a minimal working example, the Problem of Apollonius and an NP-hard variant of the problem that can be solved by building virtual sets in Lean4 with deep connections to algebraic geomerry, fractals and the foundations of mathematics.
+Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover and its kernel. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius alongside an NP-hard variant. The solution methodology involves constructing virtual sets within Lean 4, revealing profound interconnections spanning algebraic geometry, fractal geometry, and set theory—disciplines conventionally regarded as disjoint.
+
+Notably, the enumerative structure of this approach renders it computationally feasible, thereby enabling the effective simulation of virtual sets on a computer.
 
 ![Ludwig Feuerbach](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/ludwig.png)
 
@@ -8,7 +10,6 @@ Our project aims to construct a virtual mathematical kernel build on VST that ru
 — Ludwig Feuerbach, *The Essence of Christianity*
 
 ---
-
 
 ---
 ## Overview
