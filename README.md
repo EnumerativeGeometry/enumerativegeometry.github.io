@@ -9,6 +9,77 @@
 
 
 ---
+## Overview
+
+This repository hosts the first open-source collaborative formalization of Virtual Set Theory (VST) and its application to enumerative geometry, especially the generalized Apollonius problem. VST refines classical set theory by redefining membership as a continuous, recursive, fractal-like relation motivated by fractal degenerations in geometry.
+
+The project uses **Lean 4** to formalize axioms, definitions, and theorems, enabling rigorous computer-verified proofs connecting foundational mathematics with cutting-edge geometric enumeration. The main repo is [Visit the Virtual Set Theory GitHub Repository](https://github.com/YourUsername/YourVSTRepo)
+
+
+## Repository Structure
+
+- **`axioms.lean`**  
+  Contains foundational axioms including classical membership and the new virtual membership relation parameterized over an indexing space.
+
+- **`definitions.lean`**  
+  Defines geometric objects in the moduli space \(\mathcal{M}\) that models points, lines, and circles uniformly.
+
+- **`theorems.lean`**  
+  Encodes key theorems such as the Chow ring intersection relation \(h^3 = 2h\), central to the enumerative solution of the Apollonius problem.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Install [Lean 4](https://lean-lang.org/install/)
+- Install the **Lean 4 VS Code extension** for best interactive editing and proof development.
+- Optional: Install `lake` (Lean’s build tool, included in Lean 4) to manage builds.
+
+### Setup
+
+Clone the repository and build all code:
+
+git clone https://github.com/YourUsername/YourVSTRepo.git
+cd YourVSTRepo
+lake build
+
+text
+
+This checks compilation and proof verification of axioms, definitions, and theorems.
+
+### Editing and Running Code
+
+- Open the project folder in VS Code:  
+
+code .
+
+text
+- Open any `.lean` file (like `axioms.lean`) to view or add your formalization.
+- The Lean extension highlights errors, shows proof states, and guides you interactively.
+
+---
+
+## How to Use Each File
+
+### `axioms.lean`
+
+- Defines membership concepts foundational to VST.
+- Primarily declarations and axioms; do not expect executable code.
+- Proofs about consistency and paradox resolution will build here.
+
+### `definitions.lean`
+
+- Formalizes the moduli space hosting points, lines, and circles.
+- These definitions serve as the vocabulary for stating theorems.
+- You can add recursive definitions of virtual sets and indexing strata here.
+
+### `theorems.lean`
+
+- Contains major enumerative geometry results, starting from the key Chow ring relation.
+- Proof scripts verifying the enumerative counts and intersection identities.
+- Proofs may build on the axioms and definitions files.
 
 # Virtual Set Theory and the Enumerative Geometry of Membership
 
