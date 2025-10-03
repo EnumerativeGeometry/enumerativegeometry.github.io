@@ -396,20 +396,15 @@ This project develops **Virtual Set Theory (VST)**, a novel foundational framewo
 
 ---
 
-Prepared by Quentin d’Aubigny, 2025. For feedback or contributions, please contact via GitHub issues on the project repository.
-
-
 
 ## Foundational Papers Forthcoming
 
-(Publication date, Christmas 2025)
-
-- [Foundations of Virtual Sets (Paper #1)](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper1/paperx1.pdf)  
-- [Apollonius Problem Resolution in VST (Paper #2)](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper2/paperx2.pdf)  
-- [Future Research and Extending ZF with Virtual Sets (Paper #3)](https://github.com/EnumerativeGeometry/enumerativegeometry.github.io/blob/main/content/papers/paper3/paperx3.pdf)  
-- [Enumerative Geometry Overview (Wikipedia)](https://en.wikipedia.org/wiki/Enumerative_geometry)  
+- [Foundations of Virtual Sets (Paper #1)]()  
+- [Apollonius Problem Resolution in VST (Paper #2)]()  
+- [Future Research and Extending ZF with Virtual Sets (Paper #3)]()  
+- [Enumerative Geometry Overview (Wikipedia)]()  
 - [Original Apollonius Problem (Wikipedia)](https://en.wikipedia.org/wiki/Problem_of_Apollonius)  
-- [Recent Algebraic Geometry Research (McKean 2022)](https://arxiv.org/pdf/2210.13288.pdf)  
+- [Recent Algebraic Geometry Research (McKean 2022)]()  
 
 ---
 
@@ -429,7 +424,7 @@ VST analogues of these classical theorems are currently conjectured, with papers
 
 ## Contact and Contributions
 
-Virtual Set Theory is not a foundation, it is instead, a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Currently focused on a minimal working example in enumerative geometry, it provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
+Virtual Set Theory is not a foundation like category theory or set theory, it is instead, a virtual mathematical computer in Lean4. It aims to formally define a fractal, recursive re-embedding of classical mathematics into itself via virtualized membership relations, producing a rich internal structure that mimics fractal geometry and recursive enumeration phenomena into the structure of sets and membership that allows for rebuilding of classical results into a virtual mathematics. Currently focused on a minimal working example in enumerative geometry, it provides new tools to solve problems like the Generalized Apollonius Problem and other conjectures that have previously resisted classical solution methods as of 2025. Please share feedback, issues, or contributions via GitHub. Collaboration is warmly welcomed to explore and extend virtual mathematics.
 
 
 Best regards,  
