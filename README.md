@@ -361,4 +361,4 @@ Please share feedback, issues, or contributions via GitHub. Collaboration is war
 
 
 Best regards,  
-Quentin d'Aubigny
+Yesod Bourbansky
