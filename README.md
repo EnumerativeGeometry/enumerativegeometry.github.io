@@ -346,13 +346,13 @@ Prepared by Quentin d’Aubigny, 2025. For feedback or contributions, please con
 VST analogues of these classical theorems are currently conjectured, with papers to come.
 
 ![Virtual Fixed Point Theorem](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem1.png)
-  Description: Virtual fixed point theorem extending classical results.  
+Description: Virtual fixed point theorem extending classical results.  
 
 ![Virtual Combinatorial Identities](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem2.png)
-  Description: Virtual generalization of classical combinatorial identities.  
+Description: Virtual generalization of classical combinatorial identities.  
 
 ![Recursive Structure Theorem](https://raw.githubusercontent.com/EnumerativeGeometry/enumerativegeometry.github.io/main/static/theorem3.png)
-  Description: Recursive structure theorem analogous to classical set theory results but with virtual sets
+Description: Recursive structure theorem analogous to classical set theory results but with virtual sets
 
 
 ## Contact and Contributions
