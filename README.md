@@ -104,7 +104,7 @@ where:
 - \(E\) is the universe of geometric elements (circles, lines, points),
 - \(\mathcal{I}\) is an indexing parameter space—such as posets, trees, or directed graphs—encoding recursive and fractal membership layers.
 
-This membership relation is recursive and fractal, embedding mathematics within itself as a bijection, allowing every classical set to be replaced by a virtual set with a richer internal structure. This framework allows for controlled and noncontradictory solutions to classical paradoxes such as Russell’s paradox.
+This membership relation is recursive and fractal, embedding mathematics within itself using a self-referential, structure-preserving embedding rather than a literal bijection, allowing every classical set to be replaced by a virtual set with a richer internal structure. This framework allows for controlled and noncontradictory solutions to classical paradoxes such as Russell’s paradox.
 
 
 ## Enumerative Solution: Intersection Theory in Virtual Context
