@@ -1,4 +1,4 @@
-# Virtual Set Theory and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
+# Virtual Sets and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4.
 
 Our project aims to develop a rigorously validated virtual mathematical kernel based on the Virtual Set Theory (VST) framework, implemented in Lean 4 and verified using the Lean 4 theorem prover. Building upon a minimal working example—demonstrated through the full proof accessible in the README and the Lean 4 source under theorems—this work addresses the classical Problem of Apollonius alongside an NP-hard variant. The solution methodology involves constructing virtual sets within Lean 4, revealing profound interconnections spanning algebraic geometry, fractal geometry, and set theory—disciplines conventionally regarded as disjoint.
 
@@ -43,8 +43,8 @@ The project uses **Lean 4** to formalize axioms, definitions, and theorems, enab
 
 Clone the repository and build all code:
 
-git clone https://github.com/YourUsername/YourVSTRepo.git
-cd YourVSTRepo
+git clone https://github.com/EnumerativeGeometry/enumerativegeometry.github.io.git
+cd enumerativegeometry.github.io
 lake build
 
 text
