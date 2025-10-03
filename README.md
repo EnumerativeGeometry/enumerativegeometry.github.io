@@ -28,7 +28,7 @@ The project uses **Lean 4** to formalize axioms, definitions, and theorems, enab
 - **`theorems.lean`**  
   Encodes key theorems such as the Chow ring intersection relation \(h^3 = 2h\), central to the enumerative solution of the Apollonius problem.
 - **`apollonius.lean`**
-  This is the main mathematical kernel, focused on a specific working example it will be extended to rebuild classical results.
+  This is the main mathematical kernel, focused on a specific working example it will be extended to rebuild classical results using virtual sets.
 ---
 
 ## Getting Started
