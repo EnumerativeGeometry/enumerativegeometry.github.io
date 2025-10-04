@@ -1,4 +1,4 @@
-# Virtual Sets and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4 for solving enumerative geometry problems (Chow relation or complex nunmbers not essential just metaphorical, will be replaced soon)
+# Virtual Sets and Enumerative Geometry: Building an open-source virtual mathematical kernel with Lean4 for solving enumerative geometry problems (Chow relation or complex numbers not essential just metaphorical, will be replaced soon .. very soon)
 
 Abstract: We address the Problem of Apollonius and its generalizations by introducing a rigorous reformulation of set membership within an appropriate moduli space, thereby unifying points, lines, and circles under a common framework. By enumerating degenerate tangency conditions and recasting tangency constraints as intersection relations, we obtain a parametrized equation for the cardinality of solutions involving unknown coefficients α and β.
 
