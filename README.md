@@ -1,7 +1,7 @@
 # Virtual Sets and Enumerative Geometry
 
 Building an open-source virtual mathematical kernel with Lean4 for solving enumerative geometry problems  
-*(Note: The classical Chow relation traditionally relies on graded rings over complex numbers. This project clarifies and addresses that gap by developing a generalized framework not dependent on complex numbers.)* We call this framework virtual set theory (note this is a research project timelines at the end of this document).
+*(Note: The classical Chow relation traditionally relies on graded rings over complex numbers. This project clarifies and addresses that gap by developing a generalized framework not dependent on complex numbers.)* We call this framework virtual set theory (note this is a research project timelines at the end of this document, there seems to be some confusion among some amateur on difference between a research project and a homework assignment).
 
 ---
 
