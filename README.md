@@ -3,7 +3,7 @@
 Building an open-source virtual mathematical kernel with Lean4 for solving enumerative geometry problems  
 *(Note: The classical Chow relation traditionally relies on graded rings over complex numbers. This project clarifies and addresses that gap by developing a generalized framework not dependent on complex numbers.)* We call this framework virtual set theory (note this is a research project timelines at the end of this document).
 
-One the ethical use of AI for this project: All concepts and calculations are done manually, some use of LLMs will be used to speed up development and boostrap formal verification in Lean4.
+One the ethical use of AI for this project: All concepts and calculations are done manually, some use of LLMs will be used to speed up development and boostrap formal verification in Lean4. Results will be published on ArXiv for peer-review. Open contributions are welcome.
 
 ---
 
